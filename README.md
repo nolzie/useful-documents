@@ -1,5 +1,5 @@
 # useful-documents
-This repo contains a list of useful links to papers and articles in machine learning, neuroscience and computer science.
+This repo contains a list of useful and interesting links to papers and articles in machine learning, neuroscience and computer science.
 
 <details>
 <summary> Timeseries Forecasting </summary>
