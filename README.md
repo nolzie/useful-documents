@@ -11,6 +11,7 @@ This repo contains a list of useful and interesting links to papers and articles
 <details>
    <summary> Timeseries Datasets </summary>
  <br>
+    Solar Power Data Repo
     https://www.nrel.gov/grid/solar-power-data.html
 </details>
 
